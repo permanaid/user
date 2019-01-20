@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$baca_plus=$red."
+$baca_plus=$biru."
 ──── █▀▄ ▄▀▄ ▄▀ ▄▀▄────$kuning █▀▄ █── █─█ ▄▀▀────$red
 ──── █▀█ █▀█ █─ █▀█────$kuning █─█ █─▄ █─█ ─▀▄────$red
 ──── ▀▀─ ▀─▀ ─▀ ▀─▀────$kuning █▀─ ▀▀▀ ─▀─ ▀▀─────$putih
