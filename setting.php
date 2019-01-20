@@ -2,7 +2,7 @@
 /* setting bot */
 $baca_plus=$merah."
 ──── █▀▄ ▄▀▄ ▄▀ ▄▀▄────$merah █▀▄ █── █─█ ▄▀▀────$merah
-──── █▀█ █▀█ █─ █▀█────$kuning █─█ █─▄ █─█ ─▀▄────$merah
+──── █▀█ █▀█ █─ █▀█────$hijau █─█ █─▄ █─█ ─▀▄────$merah
 ──── ▀▀─ ▀─▀ ─▀ ▀─▀────$hijau █▀─ ▀▀▀ ─▀─ ▀▀─────$merah
 creator:$ijo adidoank$putih || code invite:$ijo F9NAmmRD7x$putih
 chanel :$kuning https://youtube.com/permana29 || JANGAN LUPA:$ijo SUBSCRIBE".$t;
