@@ -13,8 +13,8 @@ $mc=$br."
 ──── █▄─▄█ ▄▀▄ █▄─█ █▀▀ ▀▄─▄▀──── ▄▀ █─█ █▀▄ █▀▀────
 ──── █─█─█ █─█ █─▀█ █▀▀ ──█────── █─ █─█ █▀█ █▀▀────
 ──── ▀───▀ ─▀─ ▀──▀ ▀▀▀ ──▀────── ─▀ ─▀─ ▀▀─ ▀▀▀────
-".$pth."creator: ".$ijo."Permana ".$pth."|| ".$ijo."subcribe chanel adi Per-mana".$t.$pth."invite : ".$ijo."BJ67A ".$pth."
-".$pth."support: ".$ijo."Jangan Lupa Subscribe Per-mana".$t;
+".$pth."creator: ".$ijo."Permana ".$pth."|| ".$ijo."subcribe chanel Per-mana".$t.$pth."invite : ".$ijo."BJ67A ".$pth."
+".$pth."info: ".$ijo."Jangan Lupa Subscribe My chanel Per-mana".$t;
 $msg_mc=$ijo."[•] enjoy your life";
 $stat_mc=true;
 
