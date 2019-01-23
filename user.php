@@ -9,6 +9,6 @@ $figlet= $ijo."
 ── █─ █▀█ █─█ █ █─▀█ █─▀▌".$kuning." |'' L|||  \/ (/_|`_\|".$ijo."
 ── ─▀ ▀─▀ █▀─ ▀ ▀──▀ ▀▀▀───────────────────".$t.
   $putih."[-]creator:".$ijo." Per-mana   ".$t.
-  $putih."[-]ide    :".$merah." Subscriber  ".$t.
+  $putih."[-]ide    :".$kuning." Subscriber  ".$t.
   $putih."[-]chanel :".$ijo." https://youtube.com/permana29 ".$t.
   $putih."[-]invite :".$ijo." uiemj8     ".$t;
