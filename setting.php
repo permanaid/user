@@ -13,7 +13,7 @@ $ccu= $red."
 ──── ▄▀ ▄▀▄ ▀ █▄─█────$kuning ▄▀ █── █─█ █▀▄────".$pth."
 ──── █─ █─█ █ █─▀█────$kuning █─ █─▄ █─█ █▀█────
 ──── ─▀ ─▀─ ▀ ▀──▀────$kuning ─▀ ▀▀▀ ─▀─ ▀▀─────
-creator: ".$ijo."Permana ".$pth."|| chanel: ".$ijo."adi bordir".$t;
-$msg_ccu=$ijo."[•] official chanel adi bordir dan sungging";
+creator: ".$ijo."Permana ".$pth."|| chanel: ".$ijo."Per-mana".$t;
+$msg_ccu=$ijo."[•] Jangan Lupa Subscribe Chanel : Per-mana";
 $stat_ccu=true;
 ?>
