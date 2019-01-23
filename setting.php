@@ -9,10 +9,10 @@ chanel :$kuning {*} https://youtube.com/permana29 {*}$putih JANGAN LUPA: SUBSCRI
 $msg_baca= "[•] Official Chanel Youtube Per-mana".$t."[•] info bagi yang mengalami kesalahan saat login".$t."[•] silahkan download ulang skrip".$t."[•] kesalahan terdapat pada versi os lolipop";
 $stat_baca=true;
 
-$mc=$br."
-──── █▄─▄█ ▄▀▄ █▄─█ █▀▀ ▀▄─▄▀────$putih ▄▀ █─█ █▀▄ █▀▀────
-──── █─█─█ █─█ █─▀█ █▀▀ ──█──────$putih █─ █─█ █▀█ █▀▀────
-──── ▀───▀ ─▀─ ▀──▀ ▀▀▀ ──▀──────$putih ─▀ ─▀─ ▀▀─ ▀▀▀────$br
+$mc=$kuning."
+──── █▄─▄█ ▄▀▄ █▄─█ █▀▀ ▀▄─▄▀──── ▄▀ █─█ █▀▄ █▀▀────
+──── █─█─█ █─█ █─▀█ █▀▀ ──█────── █─ █─█ █▀█ █▀▀────
+──── ▀───▀ ─▀─ ▀──▀ ▀▀▀ ──▀────── ─▀ ─▀─ ▀▀─ ▀▀▀────
 ".$pth."creator: ".$ijo."Permana ".$pth."|| ".$ijo."subcribe chanel Per-mana".$t.$pth."invite : ".$ijo."BJ67A ".$pth."
 ".$pth."info   : ".$ijo."Jangan Lupa Subscribe My chanel Per-mana".$t;
 $msg_mc=$ijo."[•] enjoy your life";
