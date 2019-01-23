@@ -10,9 +10,9 @@ $msg_baca= "[•] Official Chanel Youtube Per-mana".$t."[•] info bagi yang men
 $stat_baca=true;
 
 $ccu= $red."
-──── ▄▀ ▄▀▄ ▀ █▄─█────$kuning ▄▀ █── █─█ █▀▄────".$pth."
-──── █─ █─█ █ █─▀█────$kuning █─ █─▄ █─█ █▀█────
-──── ─▀ ─▀─ ▀ ▀──▀────$kuning ─▀ ▀▀▀ ─▀─ ▀▀─────
+──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
+──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
+──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
 creator: ".$ijo."Permana ".$pth."|| chanel: ".$ijo."Per-mana".$t;
 $msg_ccu=$ijo."[•] Jangan Lupa Subscribe Chanel : Per-mana";
 $stat_ccu=true;
