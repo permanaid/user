@@ -9,13 +9,13 @@ chanel :$kuning {*} https://youtube.com/permana29 {*}$putih JANGAN LUPA: SUBSCRI
 $msg_baca= "[•] Official Chanel Youtube Per-mana".$t."[•] info bagi yang mengalami kesalahan saat login".$t."[•] silahkan download ulang skrip".$t."[•] kesalahan terdapat pada versi os lolipop";
 $stat_baca=true;
 
-/* setting bot */
-$ccu= $red."
-──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
-──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
-──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
-creator: ".$ijo."adidoank ".$pth."|| chanel: ".$ijo."adi bordir".$t;
-$msg_ccu=$ijo."[•] official chanel adi bordir dan sungging";
-$stat_ccu=true;
+$mc=$br."
+──── █▄─▄█ ▄▀▄ █▄─█ █▀▀ ▀▄─▄▀──── ▄▀ █─█ █▀▄ █▀▀────
+──── █─█─█ █─█ █─▀█ █▀▀ ──█────── █─ █─█ █▀█ █▀▀────
+──── ▀───▀ ─▀─ ▀──▀ ▀▀▀ ──▀────── ─▀ ─▀─ ▀▀─ ▀▀▀────
+".$pth."creator: ".$ijo."Permana ".$pth."|| ".$ijo."Subcribe chanel Per-mana".$t.$pth."invite : ".$ijo."BJ67A ".
+".$pth."support: ".$ijo."Jangan Lupa Subscribe Per-mana".$t;
+$msg_mc=$ijo."[•] enjoy your life";
+$stat_mc=true;
 
 ?>
